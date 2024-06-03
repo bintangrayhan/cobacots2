@@ -16,7 +16,7 @@ public class Cots_bintang {
         System.out.println("3. Perkalian (*)");
         System.out.println("4. Pembagian (/)");
 
-        System.out.print("Masukkan pilihan (1/2/3/4): ");
+        System.out.print("Masukk an pilihan (1/2/3/4): ");
         int pilihan = scanner.nextInt();
 
         System.out.print("Masukkan angka pertama: ");
