@@ -15,6 +15,16 @@ public class Cots_bintang {
         System.out.println("2. Pengurangan (-)");
         System.out.println("3. Perkalian (*)");
         System.out.println("4. Pembagian (/)");
+         System.out.println("1. Penambahan (+)");
+        System.out.println("2. Pengurangan (-)");
+        System.out.println("3. Perkalian (*)");
+        System.out.println("4. Pembagian (/)");
+         System.out.println("1. Penambahan (+)");
+        System.out.println("2. Pengurangan (-)");
+        System.out.println("3. Perkalian (*)");
+        System.out.println("4. Pembagian (/)");
+
+
 
         System.out.print("Masukkan pilihan (1/2/3/4): ");
         int pilihan = scanner.nextInt();
